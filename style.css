@@ -41,6 +41,7 @@ h2 {
     padding: 10px;
     border-radius: 10px;
     transition: background 0.3s;
+    outline: none;
 }
 
 .col button:hover {
